@@ -4,10 +4,10 @@
   <h5><i>A powerful kernel for all the bots.</i></h5>
 </div>
 
-<h3>NOCOM_BOT ecosystem:</h3>
 <i>Things marked as ☢️ is in WIP, and are not usable (or use it at your own risks)</i><br>
 <i>Things marked as 💵 will only be available behind paywalls (author needs to survive, duh)</i><br>
 <i>Things marked as 🈸 will only be available in compiled form (things that the author doesn't want to make it open-source)</i><br>
+<h3>NOCOM_BOT ecosystem:</h3>
 <br>
 
 - Kernel: 
@@ -30,3 +30,7 @@
   [facebook ☢️💵🈸 (TS)](https://github.com/NOCOM-BOT/mod_fbmsg)
 - Runtime wrapper(?):
   [cli (JS)](https://github.com/NOCOM-BOT/cli)
+  
+<h3>NOCOM_BOT distro:</h3>
+
+[c3cbot ☢️ (official)](https://github.com/c3cbot/c3cbot)
