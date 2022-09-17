@@ -26,7 +26,7 @@
 - Interfaces:
   [discord (TS)](https://github.com/NOCOM-BOT/mod_discord) /
   [facebook legacy (TS)](https://github.com/NOCOM-BOT/mod_fbmsg_legacy) /
-  [telegram ☢️ (TS)](https://github.com/NOCOM-BOT/mod_telegram) /
+  [telegram (TS)](https://github.com/NOCOM-BOT/mod_telegram) /
   [facebook ☢️💵🈸 (TS)](https://github.com/NOCOM-BOT/mod_fbmsg)
 - Runtime wrapper(?):
   [cli (JS)](https://github.com/NOCOM-BOT/cli)
