@@ -29,7 +29,7 @@
   [telegram (TS)](https://github.com/NOCOM-BOT/mod_telegram) /
   [facebook ☢️💵🈸 (TS)](https://github.com/NOCOM-BOT/mod_fbmsg)
 - Runtime wrapper(?):
-  [cli (JS)](https://github.com/NOCOM-BOT/cli)
+  [cli (TS)](https://github.com/NOCOM-BOT/cli)
   
 <h3>NOCOM_BOT distro:</h3>
 
